@@ -1,7 +1,9 @@
 <h3 align="left">💫 Tentang Saya</h3>
+_______________________________________________________
 <h5 align="left">Hi, namaku Muhammad Ridha Maulana</h5>
 
 🏫 Aku sedang menempuh pendidikan kuliah di Politeknik Negeri Banjarmasin
+
 📖 Aku berminat pada bidang Database Engineering dan Web Developer
 
 <h3 align="left">Languages and Tools:</h3>
