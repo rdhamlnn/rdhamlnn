@@ -1,5 +1,5 @@
 <h3 align="left">💫 Tentang Saya</h3>
-<h5 align="left">Hi, namaku Muhammad Ridha Maulana</h5>
+<p align="left">Hi, namaku Muhammad Ridha Maulana</p>
 
 <p align="left">🏫 Aku sedang menempuh pendidikan kuliah di Politeknik Negeri Banjarmasin</p>
 <p align="left">📖 Aku berminat pada bidang Database Engineering dan Web Developer</p>
